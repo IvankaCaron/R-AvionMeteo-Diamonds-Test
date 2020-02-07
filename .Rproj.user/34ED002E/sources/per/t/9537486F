@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579985185853.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9537486F",
+    "lastKnownWriteTime" : 1579878155,
+    "last_content_update" : 1579985185853,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E9E1D661",
+        "caption" : "mat6",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mat6&cache_key=E9E1D661",
+        "displayedObservations" : "20",
+        "environment" : "",
+        "object" : "mat6",
+        "preview" : "0",
+        "totalObservations" : "20",
+        "variables" : "3"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

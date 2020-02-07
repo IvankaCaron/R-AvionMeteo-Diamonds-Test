@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579794171170.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1447890509",
+    "id" : "960E5140",
+    "lastKnownWriteTime" : 1579877971,
+    "last_content_update" : 1579877971909,
+    "path" : "~/Desktop/workspace/AvionMeteo/script/regresionMultipleDelay.R",
+    "project_path" : "script/regresionMultipleDelay.R",
+    "properties" : {
+        "cursorPosition" : "67,0",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

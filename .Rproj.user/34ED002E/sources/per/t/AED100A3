@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579878203179.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AED100A3",
+    "lastKnownWriteTime" : 1579878155,
+    "last_content_update" : 1579878203179,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "944FE582",
+        "caption" : "diamonds",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=diamonds&cache_key=944FE582",
+        "displayedObservations" : 53940,
+        "environment" : "",
+        "object" : "diamonds",
+        "preview" : 0,
+        "totalObservations" : 53940,
+        "variables" : 10
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
